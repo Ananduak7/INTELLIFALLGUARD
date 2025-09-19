@@ -64,7 +64,21 @@ Current fall detection systems often:
 
 4. **Visualization**  
    - Dashboard shows real-time camera feed, fall status, and health parameters
+     
+5. **Results**
+   <img width="1325" height="1010" alt="image" src="https://github.com/user-attachments/assets/c5f50fff-f951-4f2f-bc37-a7b5473e0187" />
+
+   <img width="1025" height="989" alt="image" src="https://github.com/user-attachments/assets/729fa4bc-80f9-401a-8ee3-0ae1c26b1fb9" />
+
+   <img width="1476" height="984" alt="image" src="https://github.com/user-attachments/assets/9f1da3fc-d587-40c9-b498-8b84114016e0" />
+
+   ![labels](https://github.com/user-attachments/assets/8435d4e8-aee6-44b5-9adf-2e8eae6bd901)
+
+
+
+
 
 ---
+
 
 
